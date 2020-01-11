@@ -1,0 +1,11 @@
+This is a final tenant report for sue(ID#2)  generated on: 2014-09-23
+
+ Tenant moved in on 2014-10-22 with a deposit of 800.0 
+Tenant owed 0.0 at the beginning of the year. 
+sue in unit B1  C leaving on 2014-10-24 has a final balance of: -851.6129032258065 after fees and damages of 200.0, 200.0 are factored in. 
+
+
+
+ Rent Payment: 500.0 on: 2014-09-22
+ 
+ Total Rent Payments: 500.0

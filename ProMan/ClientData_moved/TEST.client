@@ -1,0 +1,5 @@
+TEST|0.0|67876|shit|0|
+Building Key| Unit| Rent Amount| Tenant | Phone # | e-mail | move-in date | Lease end | deposit | balance forward | Descr 
+66TEST|1|0.0|VACANT|||1900-01-01||0.0|0.0|None
+66TEST|2|0.0|VACANT|||1900-01-01||0.0|0.0|None
+66TEST|3|0.0|VACANT|||1900-01-01||0.0|0.0|None

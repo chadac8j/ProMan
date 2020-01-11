@@ -1,0 +1,68 @@
+Portfolio| Invoice num| Building| Unit| Category| Date| Amount| Capitalize| Description
+CHAD| 12321|82Terr8702| C| cleaning| 2014-04-08| 395| no| these next items are all for getting 8702 C back in shape.  this is charge for hauling to dump
+CHAD| 12321|82Terr8702| C| maintenance| 2014-04-08| 45| no| re-key fee
+CHAD| 12321|82Terr8702| C| maintenance| 2014-04-08| 565| no| painting
+CHAD| 12321|82Terr8702| C| cleaning| 2014-04-08| 145.5| no| carpets
+CHAD| 12321|82Terr8702| C| cleaning| 2014-04-08| 135| no| clean unit
+CHAD| 12321|82Terr8702| C| supplies| 2014-04-08| 112.33| no| paint
+CHAD| 13569|82Terr8704| A| maintenance| 2014-05-11| 218.94| no| new disposer
+CHAD| 12396|82Terr8704| A| maintenance| 2014-04-25| 85.59| no| new towel bar
+CHAD| 12392|82Terr8704| A| leasing| 2014-04-25| 518| no| new tenant fee
+CHAD| 12796|ever8302| C| repair| 2014-03-06| 1275.14| no| plumbing fix and carpeting
+CHAD| 12367|ever8213| d| repair| 2014-04-23| 76.36| no| toilet running
+CHAD| 12394|ever8215| b| leasing| 2014-04-25| 550| no| new tenant fee
+CHAD| 12368|ever8215| b| repair| 2014-04-23| 476.18| no| get unit ready for next person
+CHAD| 12368|ever8215| b| cleaning| 2014-04-23| 125| no| carpet cleaning
+CHAD| 12368|ever8215| b| cleaning| 2014-04-23| 115| no| cleaning
+CHAD| 12349|ever8215| b| repair| 2014-04-20| 115.15| no| thermocoupler for water heater
+CHAD| 12455|ever8215| a| repair| 2014-02-07| 256.87| no| electrical issues
+CHAD| 12553|ever8302| d| repair| 2014-03-03| 91.04| no| new lock
+CHAD| 12534|82Terr8702| a| repair| 2014-02-24| 227.92| no| water heater repair
+CHAD| 12882|82Terr8702| b| repair| 2014-03-15| 168.01| no| replace disposer
+CHAD| 12441|ever8213| | maintenance| 2014-02-06| 92.50| no| snow removal
+CHAD| 12442|ever8215| | maintenance| 2014-02-06| 92.50| no| snow removal
+CHAD| 12443|ever8302| | maintenance| 2014-02-06| 92.50| no| snow removal
+CHAD| 12444|82Terr8702| | maintenance| 2014-02-06| 92.50| no| snow removal
+CHAD| 12445|82Terr8704| | maintenance| 2014-02-06| 92.50| no| snow removal
+CHAD| 12557|82Terr8704| | maintenance| 2014-03-03| 75| no| snow removal
+CHAD| 12558|82Terr8702| | maintenance| 2014-03-03| 75| no| snow removal
+CHAD| 12559|ever8302| | maintenance| 2014-03-03| 75| no| snow removal
+CHAD| 12560|ever8215| | maintenance| 2014-03-03| 75| no| snow removal
+CHAD| 12561|ever8213| | maintenance| 2014-03-03| 75| no| snow removal
+CHAD| 12910|82Terr8704| a| maintenance| 2014-03-22| 125| no| save home inspection
+CHAD| 12308|82Terr8704| a| maintenance| 2014-04-07| 135.5| no| assorted move-in issues
+CHAD| 12166|ever8215|c | repair| 2014-01-16| 610.12| no| frozen pipes
+CHAD| 12149|ever8213|d | repair| 2014-01-14| 1550| yes| new furnace
+CHAD| 12159|ever8302|d | repair| 2014-01-15| 115| no| frozen pipes
+CHAD| 12190|ever8302|c | repair| 2014-01-22| 359.04| no| plumbing issues and ceiling repair
+CHAD| |82Terr8702| c| supplies| 2014-06-22| 19.75| no| stuff to make window screens
+CHAD| |82Terr8704| c| supplies| 2014-05-26| 98.61| no| stuff to replace disposer
+CHAD| | | | supplies| 2014-05-09| 17.49| no| gas for mowing
+CHAD| | | | supplies| 2014-05-25| 43.07| no| supplies for mowing
+CHAD| | | | supplies| 2014-05-31| 12.76| no| gas for mowing
+CHAD| | | | supplies| 2014-04-06| 168.05| no| new mower
+CHAD| | | | supplies| 2014-04-12| 18.40| no| gas for mowing
+CHAD| |82Terr8702| c| utility| 2014-05-15| 51.7| no| gas
+CHAD| |82Terr8702| c| utility| 2014-06-05| 38.82| no| final gas bill
+CHAD| |ever8302| | utility| 2014-05-12| 6.4| no| storm water
+CHAD| |ever8302| | utility| 2014-06-11| 6| no| storm water
+CHAD| |ever8215| b| utility| 2014-03-31| 25.33| no| final gas bill
+CHAD| |82Terr8704| a| utility| 2014-03-26| 32.79| no| final gas bill
+CHAD| |ever8302| | utility| 2014-04-10| 5.8| no| storm water
+CHAD| |ever8213| | utility| 2014-04-02| 17.85| no| storm water
+CHAD| |ever8215| | utility| 2014-04-02| 20.4| no| storm water
+CHAD| |82Terr8704| | utility| 2014-04-02| 17.85| no| storm water
+CHAD| |ever8302| | utility| 2014-03-12| 5.8| no| storm water
+CHAD| |ever8215| b| utility| 2014-03-17| 52.03| no| gas bill
+CHAD| |82Terr8702| c| utility| 2014-04-15| 67.33| no| gas
+CHAD| |82Terr8702| c| utility| 2014-03-17| 102.05| no| gas
+CHAD| |82Terr8704| a| utility| 2014-03-17| 76.72| no| gas bill
+CHAD| |82Terr8704| a| utility| 2014-02-07| 11.18| no| gas bill
+CHAD| |ever8215| b| utility| 2014-02-14| 14.53| no| gas bill
+CHAD| |82Terr8704| a| utility| 2014-02-14| 84.1| no| gas bill
+CHAD| |ever8302| | utility| 2014-02-11| 5.8| no| storm water
+CHAD| |ever8302| | utility| 2014-01-13| 6.6| no| storm water
+
+CHAD| |82Terr8702| d| repair| 2014-06-17| 2000| yes| new furnace
+
+

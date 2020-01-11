@@ -1,0 +1,8 @@
+notes for LLI software
+indexListSmall has each unit, building if multi-unit, and portfolio as members
+should I create a building/unit for "PORTFOLIO"?  currently I don't, but this could cause problems
+
+
+indexList has all keys in the report structure
+
+now I haved SavedData.dat in readonly mode to protect from users changing data manually

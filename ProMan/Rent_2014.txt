@@ -1,0 +1,52 @@
+Portfolio| Report num| Building| Unit| Category| Date| Amount| ManageFee| Description
+CHAD| |Ever8213| A| rent| 2014-01-27| 530| 0.09| First Jan Payment
+CHAD| |Ever8213| D| rent| 2014-01-27| 405| 0.09| 16 Jan payments
+CHAD| |Ever8215| A| rent| 2014-01-27| 450| 0.09|
+CHAD| |Ever8215| C| rent| 2014-01-27| 550| 0.09|
+CHAD| |Ever8215| D| rent| 2014-01-27| 425| 0.09|
+CHAD| |Ever8302| A| rent| 2014-01-27| 530| 0.09|
+CHAD| |Ever8302| D| rent| 2014-01-27| 630| 0.09|
+CHAD| |82Terr8704| B| rent| 2014-01-27| 450| 0.09|
+CHAD| |82Terr8704| C| rent| 2014-01-27| 515| 0.09|
+CHAD| |82Terr8704| D| rent| 2014-01-01| 425| 0.09| December back rent
+CHAD| |82Terr8704| D| rent| 2014-01-27| 425| 0.09|
+CHAD| |Ever8213| B| rent| 2014-01-27| 280| 0.09|
+CHAD| |Ever8213| C| rent| 2014-01-27| 300| 0.09|
+CHAD| |Ever8302| C| rent| 2014-01-27| 625| 0.09|
+CHAD| |82Terr8702| A| rent| 2014-01-27| 500| 0.09|
+CHAD| |82Terr8702| B| rent| 2014-01-27| 650| 0.09|
+CHAD| |Ever8213| A| rent| 2014-02-17| 530| 0.09| First Feb Payment
+CHAD| |Ever8213| D| rent| 2014-02-17| 405| 0.09| 7 Feb payments
+CHAD| |Ever8215| A| rent| 2014-02-17| 450| 0.09|
+CHAD| |Ever8215| C| rent| 2014-02-17| 550| 0.09|
+CHAD| |Ever8302| A| rent| 2014-02-17| 530| 0.09|
+CHAD| |82Terr8702| D| rent| 2014-02-17| 562| 0.09|
+CHAD| |82Terr8704| B| rent| 2014-02-17| 450| 0.09|
+CHAD| |Ever8215| D| rent| 2014-03-05| 425| 0.09| First Mar payment
+CHAD| |Ever8302| D| rent| 2014-03-05| 630| 0.09| 12 total mar payments
+CHAD| |82Terr8704| C| rent| 2014-03-05| 515| 0.09|
+CHAD| |Ever8213| B| rent| 2014-03-05| 280| 0.09|
+CHAD| |Ever8213| C| rent| 2014-03-05| 350| 0.09|
+CHAD| |82Terr8702| A| rent| 2014-03-05| 550| 0.09|
+CHAD| |82Terr8702| D| rent| 2014-03-05| 330| 0.09|
+CHAD| |Ever8302| B| rent| 2014-03-05| 1200| 0.09|
+CHAD| |Ever8302| C| rent| 2014-03-05| 625| 0.09|
+CHAD| |82Terr8702| B| rent| 2014-03-05| 1300| 0.09|
+CHAD| |82Terr8702| D| rent| 2014-03-05| 300| 0.09|
+CHAD| |82Terr8704| D| rent| 2014-03-05| 425| 0.09|
+CHAD| |Ever8213| A| rent| 2014-03-17| 530| 0.09| Second set of Mar payment
+CHAD| |Ever8213| D| rent| 2014-03-17| 405| 0.09| 7 payments
+CHAD| |Ever8215| A| rent| 2014-03-17| 450| 0.09|
+CHAD| |Ever8215| C| rent| 2014-03-17| 550| 0.09|
+CHAD| |Ever8302| A| rent| 2014-03-17| 530| 0.09|
+CHAD| |Ever8302| D| rent| 2014-03-17| 630| 0.09|
+CHAD| |82Terr8704| B| rent| 2014-03-17| 450| 0.09|
+CHAD| |Ever8213| C| rent| 2014-04-01| 225| 0.09| First Apr payment
+CHAD| |Ever8213| C| rent| 2014-04-10| 300| 0.09| 
+CHAD| |Ever8215| D| rent| 2014-04-10| 425| 0.09| 
+CHAD| |Ever8302| B| rent| 2014-04-10| 500| 0.09| 
+CHAD| |Ever8302| C| rent| 2014-04-10| 625| 0.09| 
+CHAD| |82Terr8702| A| rent| 2014-04-10| 500| 0.09|
+CHAD| |82Terr8702| D| rent| 2014-04-10| 608| 0.09|
+CHAD| |82Terr8704| C| rent| 2014-04-10| 515| 0.09|
+

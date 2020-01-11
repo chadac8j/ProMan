@@ -1,0 +1,4 @@
+Portfolio| Invoice num| Building| Unit| Category| Date| Amount| Capitalize| Description
+CHAD| |Ever8213| B| legal| 2014-06-27| 350| no| tenant got evicted
+CHAD| |Ever8215| D| repair| 2013-10-12| 114.54| no| tenant needed a fridge repair
+CHAD| |Ever8213| B| repair| 2014-07-27| 120| no| fixed fireplace hole

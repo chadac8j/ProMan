@@ -1,0 +1,11 @@
+Warren Buffet Portfolio Properties | 0.1 | 123-456-7890 | warren@big.bucks
+Building Key| Unit| Rent Amount| Tenant | Phone # | e-mail | move-in date | Lease end | deposit | balance forward | Descr
+EmpireState| A| 3000000 | Chad Cole | 816-555-1234 | chad@google.com | 2009-02-08 |2015-03-01 | 10000| 0 | big building in NYC
+EmpireState| B| 2000000 | King Kong | 1234567 | bigkong@haveaniceday.net | 1994-09-22 |MM| 1000000| 15000 |  good view
+EmpireState| C| 50000 | vacant | | |  | |0 |0 |  worst unit in building
+Neb213Ter| | 1000 | John Smith | | john@abc.us | 2014-08-01 |2015-08-01| 1050| 0  | granny's old house
+82Terr8706| A| 517| Heather | no phone | heather@is.hot |  2008-01-08 |MM| 500| 120 | she is hot
+82Terr8706| B| 0| vacant | | |  | | 0|0| unit needs work
+82Terr8706| C| 515| Bart |none on record | bart.simpson@simpsons.com |  2012-07-03|2015-07-31 | 500| 200 | cartoons like this unit
+82Terr8706| D| 425| Penny |436-1234| doesn't use computer |  2013-10-08|2014-10-31 | 800| 200 | high-maintenance
+NOakMcDonalds| | 5000 | Corporate | 1-800-555-5555| happy@meal.com |  1972-03-01 |MM| 10000| 0 | commercial rental

@@ -1,0 +1,6 @@
+Portfolio| Invoice num| Building| Unit| Category| Date| Amount| Capitalize| Description
+CHAD| |Ever8213| C| rent| 2014-06-27| 350| 0.09| apply to May
+CHAD| |Ever8215| D| rent| 2014-06-05| 425| 0.09| 
+CHAD| |Ever8213| D| rent| 2014-05-27| 405| 0.09| 
+CHAD| |Ever8302| D| rent| 2014-05-02| 630| 0.09| 
+CHAD| |Ever8213| A| rent| 2014-05-01| 530| 0.09| 

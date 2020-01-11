@@ -1,0 +1,23 @@
+Chad Cole Portfolio Properties
+Building Key| Unit| Rent Amount| Tenant | Descr
+ever8213| A| 530| Joe | 
+ever8213| B| 0| vacant | 
+ever8213| C| 550| Sally | pays late
+ever8213| D| 405| Phoenix | been there forever
+ever8215| A| 450| Bob |
+ever8215| B| 550| Jen | scared of mice
+ever8215| C| 550| Pocahontas | 
+ever8215| D| 425| Wes |
+ever8302| A| 530| Timmy | 
+ever8302| B| 650| Sara |
+ever8302| C| 625| Tommy |
+ever8302| D| 630| Rocky |
+82Terr8702| A| 550| Jennifer |
+82Terr8702| B| 650| Tonya P. | being evicted
+82Terr8702| C| 625| Scooby Doo | resembles a great dane
+82Terr8702| D| 600| Bat Man | fights crime
+82Terr8704| A| 517| Heather | hot
+82Terr8704| B| 0| vacant | unit needs work
+82Terr8704| C| 515| Bart |
+82Terr8704| D| 425| Penny | high-maintenance
+

@@ -1,0 +1,11 @@
+WARRENBUFFET|0.1|123-456-7890|warren@big.bucks|0|None entered yet
+Building Key| Unit| Rent Amount| Tenant | Phone # | e-mail | move-in date | Lease end | deposit | balance forward | Descr 
+EMPIRESTATE|A|3000000.0|CHAD COLE|816-555-1234|chad@google.com|2009-02-08|2015-03-01|10000.0|0.0|big building in NYC
+EMPIRESTATE|B|2000000.0|KING KONG|1234567|bigkong@haveaniceday.net|1994-09-22|MM|1000000.0|15000.0|good view
+EMPIRESTATE|C|50000.0|VACANT|||1900-01-01||0.0|0.0|worst unit in building
+NEB213TER| | 1000.0|JOHN SMITH||john@abc.us|2014-08-01|2015-08-01|1050.0|0.0|granny's old house
+82TERR8706|A|517.0|HEATHER|no phone|heather@is.hot|2008-01-08|MM|500.0|120.0|she is hot
+82TERR8706|B|0.0|VACANT|||1900-01-01||0.0|0.0|unit needs work
+82TERR8706|C|515.0|BART|none on record|bart.simpson@simpsons.com|2012-07-03|2015-07-31|500.0|200.0|cartoons like this unit
+82TERR8706|D|425.0|PENNY|436-1234|doesn't use computer|2013-10-08|2014-10-31|800.0|200.0|high-maintenance
+NOAKMCDONALDS| | 5000.0|CORPORATE|1-800-555-5555|happy@meal.com|1972-03-01|MM|10000.0|0.0|commercial rental

@@ -1,0 +1,12 @@
+Property Manager's Service List
+Company Name | Service | Web Address | Phone # | e-mail | Descr
+None |  |  |  |  | I will do this
+KCP&L | Utility | kcpl.com | 816-471-5275 |  | KC Electricity
+MO Gas Energy | Utility | missourigasenergy.com | 816-756-5252 |  | Gas
+KC Water | Utility | kcwaterservices.org | 816-513-1313 |  | KC Water
+Express Remodel | Roofing/Siding |  | 816-XXX-XXXX |  | Snow removal also
+Dave Langston | Misc |  | 816-XXX-XXXX |  | 
+DJH | Prop Management | rent-kc.com | 816-838-1700 |  | 
+Spider-man | Fights Crime |  |  |  | Wears tights
+McDonalds | food | www.bigmac.com | 234-234-2324 | bigmac@haveaniceday.com | No
+Gerry | real estate | www.exitrealty.com | 375-234-0984 | a@b.c | buying/selling of units

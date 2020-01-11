@@ -1,0 +1,18 @@
+This is report number: 1 for year 2014
+ The itemized expenses for this period are: 
+ 
+Invoice# 0 On: B1 B Cost: 2000.0  Performed on: 2014-09-28 Description: NEW ROOF
+Invoice# 0 On: B1 A Cost: 10.2  Performed on: 2014-10-01 Description: NONE
+Invoice# 0 On: B1  Cost: 80.0  Performed on: 2014-09-22 Description: MOWING
+Invoice# 0 On: B1 A Cost: 50.0  Performed on: 2014-09-23 Description: NONE
+
+Building            LEASING        TRAVEL         UTILITY        REPAIR         LEGAL          CLEANING       MAINTENANCE    SUPPLIES       MANAGEFEE      RENT                                                                                 
+ 
+B1                  0.00           0.00           0.00           0.00           0.00           0.00           80.00          0.00           0.00           0.00                                                                                 
+B1A                 0.00           10.20          0.00           0.00           0.00           0.00           50.00          0.00           0.00           400.00                                                                               
+B1B                 0.00           0.00           0.00           2,000.00       0.00           0.00           0.00           0.00           0.00           800.00                                                                               
+B1C                 0.00           0.00           0.00           0.00           0.00           0.00           0.00           0.00           0.00           500.00                                                                               
+B1_TOT              0.00           10.20          0.00           2,000.00       0.00           0.00           50.00          0.00           0.00           1,700.00                                                                             
+PORTFOLIO           0.00           0.00           0.00           0.00           0.00           0.00           0.00           0.00           0.00           0.00                                                                                 
+The total revenue for this report period is: 1,700.00
+The total expenses for this report period is: 2,140.20

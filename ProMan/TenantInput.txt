@@ -1,0 +1,13 @@
+Version1   
+11
+0|VACANT|1900-01-01||0.0|0.0|||None Entered Yet
+2|sue|2014-10-22||0.0|800.0|||None
+3|charlie pickles|2014-09-28|whenever|0.0|900.0|2809823|cp@aol.net|
+4|hamburgler|2014-09-01|when ronald says|0.0|500.0|37489374|hb@mcD.com|None
+5|Tom|2014-09-01|2015-09-1|0.0|600.0|39849834|jlkjljk|None
+6|Test|2013-10-01||100.0|500.0|3355356|alsdkfjs|None
+7|Jeff|2014-01-01|not now|0.0|600.0|342-5832|jeff@gmail.com|jeff is weird
+8|Shelly|2014-10-11||0.0|600.0|654-9876||None
+9|billy|2014-11-05|na|0.0|800.0|2343234|asj;dlfkjas|None
+10|bob|2014-11-05||0.0|500.0|||None
+11|moses|2014-11-05||0.0|2000.0|342-5234|a;lsdkjf|None

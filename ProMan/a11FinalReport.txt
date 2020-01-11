@@ -1,0 +1,12 @@
+This is a final tenant report for a1 1 generated on: 2014-09-23
+
+ Tenant moved in on 2014-09-22with a deposit of 300.0 
+Tenant owed 0.0 at the beginning of the year. 
+a1 leaving on 2014-09-30 has a final balance of: -490.0 after fees and damages of 50.0, 100.0 are factored in. 
+
+
+
+ Rent Payment: 200.0 on: 2014-09-22
+ Rent Payment: 200.0 on: 2014-10-01
+ 
+ Total Rent Payments: 400.0
